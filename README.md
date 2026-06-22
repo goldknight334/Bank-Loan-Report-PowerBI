@@ -93,7 +93,7 @@ Examines interest rates and debt-to-income ratios to assess borrower risk.
 
 ![Dashboard Screenshot](https://github.com/goldknight334/Bank-Loan-Report-PowerBI/blob/main/Snapshot%20of%20Dashboard-Summary.png)
 ![Dashboard Screenshot](https://github.com/goldknight334/Bank-Loan-Report-PowerBI/blob/main/Snapshot%20of%20Dashboard-Overview.png)
-![Dashboard Screenshot]()
+![Dashboard Screenshot](https://github.com/goldknight334/Bank-Loan-Report-PowerBI/blob/main/Snapshot%20of%20Dashboard-Details.png)
 ---
 
 ## 👤 Author
